@@ -51,7 +51,7 @@ JUnit, Cypress, Flyway, Grafana, Lens
 
 ## 🏆 Destaques
 
-- Atuação em projetos estratégicos apresentados na **FEBRABAN TECH**
+- Atuação em projetos estratégicos apresentados na **FEBRABAN TECH 2025**
 - Experiência em ambientes corporativos de grande escala (Sicredi, Serasa)
 - Evolução contínua de carreira, de **estágio a pleno**
 - Participação e premiações em desafios de inovação e tecnologia
